@@ -1,0 +1,29 @@
+#bg {
+    position: fixed; 
+    top: 5; 
+    left: 0;
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#banner {
+    background: no-repeat center top;
+    background-size: cover;
+}
+
+
+/* Ersaad */
+.signup{
+    border-radius: 30px;
+    padding: 0px;
+    background-color: rgba(56, 51, 216, 0.589);
+}
+
+.cardheader{
+    height: 65px;
+    padding: 3px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px; 
+}

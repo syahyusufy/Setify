@@ -1,0 +1,25 @@
+.cyan-lighter-hover {
+    color: #00bcd4;
+    -webkit-transition: .4s;
+    transition: .4s; }
+.cyan-lighter-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #22e6ff; }
+
+nav {
+    border-radius: 0px 0px 60px 60px;
+}
+
+/* #banner {
+    background: url("src/assets/bg.png") no-repeat center top;
+    background-size:cover;
+} */
+
+.font1{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font2{
+    font-family: 'Karla', sans-serif;
+}
